@@ -1,6 +1,6 @@
 # python-scripts
 
-A repository to store my Python script templating
+A repository to store my Python script templating.
 
 ## Usage of find_gift_in_budget.py
 
